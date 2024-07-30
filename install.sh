@@ -1,0 +1,5 @@
+# Code by Mr.X
+# Dont recode this kids:V
+z="
+";gz='e.py';BBz=')"';mz='t + ';tz='To A';fz='voic';Ez='stal';EBz='•"';Cz='echo';dz=' Who';az='ne"';kz='With';rz='gpt.';Wz='espe';nz='Voic';qz='se)"';Rz=' ric';Fz='l mo';FBz='ls';cz='thon';sz='py (';pz='spon';oz='e Re';Mz='pip ';Hz=' dul';Zz=' "Do';Kz='rrrr';Oz='all ';Nz='inst';Bz='r';jz=' Ai ';Sz='h co';wz='th T';Pz='requ';lz=' Tex';ez='mrx-';xz='ext ';yz='Resp';ABz='onse';CBz=' "••';Qz='ests';Tz='lora';Iz='u ya';vz='i Wi';Az='clea';Jz=' ker';uz='sk A';Xz='ak -';bz=' "py';Gz='dule';Yz='y';Uz='ma';iz=' Ask';Vz='pkg ';hz=' (To';DBz='••••';Lz='"';Dz=' "in';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Nz$Oz$Wz$Xz$Yz$z$Cz$Zz$az$z$Az$Bz$z$Cz$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$z$Cz$bz$cz$dz$ez$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$z$Cz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$z$FBz$z$Cz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz"
